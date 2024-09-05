@@ -2,4 +2,8 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="sinbad">#9CD3BD</color>
+    <color name="wewak">#f7b1b1</color>
+    <color name="froly">#f4908a</color>
+    <color name="lavender_gray">#c2aed6</color>
 </resources>
